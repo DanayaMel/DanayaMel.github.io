@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #FFFFFF;
   color: white;
 }
 header .container {
@@ -78,9 +78,9 @@ header .container {
 }
 header img {
   display: block;
-  margin: 0 auto 20px;
-  width:540px;
-  height: auto;
+  /*margin: 0 auto 20px;*/
+  width:200px;
+  height: 200px;
 }
 header .intro-text .name {
   display: block;
@@ -304,14 +304,14 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color: #402331;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color: #402331;
 }
 .btn-outline {
   color: white;
